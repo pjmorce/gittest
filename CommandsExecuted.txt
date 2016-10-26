@@ -6,4 +6,10 @@
 
 4 - git add Readme.txt
 
-5 - 
+5 - git add *
+
+6 - git commit -m "Sixth command added"
+
+7 - git commit -m "7th command added"
+
+8 - git push origin master
