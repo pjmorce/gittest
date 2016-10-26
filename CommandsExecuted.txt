@@ -1,0 +1,9 @@
+1 - mkdir gittest
+
+2 - cd gittest
+
+3 - git init
+
+4 - git add Readme.txt
+
+5 - 
